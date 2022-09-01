@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7841259-eb29-411a-99c9-28d67cc1c90f" name="Changes" comment="" />
+    <list default="true" id="a7841259-eb29-411a-99c9-28d67cc1c90f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Launch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pong/GameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pong/GameHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pong/LaunchGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pong/LaunchGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pong/PlayGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pong/PlayGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pong/PongGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pong/PongGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pong/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pong/Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pong/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pong/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pong/SimpleBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pong/SimpleBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pong/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pong/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Primes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2E5Pj1wuIusO2D7wH1fAAKmsUSr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +44,48 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Pong.LaunchGame">
+    <configuration name="Launch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Launch" />
+      <module name="StudyLearning" />
+      <option name="PROGRAM_PARAMETERS" value="-Xmx 10G" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pong.LaunchGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pong.LaunchGame" />
+      <module name="StudyLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Pong.LaunchGame" />
+      <item itemvalue="Application.Launch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pong.LaunchGame" />
+        <item itemvalue="Application.Launch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +94,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661882604527</updated>
+      <workItem from="1661882606902" duration="7949000" />
+      <workItem from="1661890594657" duration="2444000" />
+      <workItem from="1661935544564" duration="15281000" />
+      <workItem from="1661974906760" duration="10242000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
